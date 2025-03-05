@@ -1,0 +1,21 @@
+catatan belajar excel :
+
+tab : contohnya new, insert dan lain lain kurang lebih ada 8 tab di excel
+setiap tab ada rebon(pita) isinya adalah kumpulan beberapa group, contoh group adalah clipboar dan lain lain
+
+ada banyak button yang bisa di klik didalam setiap group sesuai dengan fungsi masing masing.
+
+kolom atau colum itu dari ataas ke bawah atau vertikal, dia diwakili oleh huruf
+baris adalah yang mendatar, baris atau rows diwakili dengan angka
+
+kotak kecil adalah shell, nama shell adalah terdiri dari nama kolom dan baris misal kita klik shell di kolom a dan baris 1, maka namanya akan jadi a1
+
+range adalah kumpulan beberapa shell yang berbeda misal a1 sampai dengan c3
+
+sheet, satu lembar excel disebut dengan sheet, jika mengklik tombol plus dibawah maka akan membuka sheet baru, sheet bisa di rename sesuai kebutuhan
+
+bisa zoom untuk menyesuaikan, tombolnya ada di kanan bawah
+
+kalau kita membuat tulisan tapi terpotong, kita bisa ubah lebah kolomnya. jika di klik 2 kali di kolom maka akan menyesuaikan lebarnya secara otomatis. begitu juga baris
+
+jika kita klik suatu shell maka kita akan mengaktifkan shell tersebut, tapi jika di klik 2 kali maka akan masuk ke mode mengubah data di shell tersebut
