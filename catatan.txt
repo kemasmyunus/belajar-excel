@@ -1,4 +1,4 @@
-catatan belajar excel :
+catatan belajar excel 1 :
 
 tab : contohnya new, insert dan lain lain kurang lebih ada 8 tab di excel
 setiap tab ada rebon(pita) isinya adalah kumpulan beberapa group, contoh group adalah clipboar dan lain lain
@@ -19,3 +19,49 @@ bisa zoom untuk menyesuaikan, tombolnya ada di kanan bawah
 kalau kita membuat tulisan tapi terpotong, kita bisa ubah lebah kolomnya. jika di klik 2 kali di kolom maka akan menyesuaikan lebarnya secara otomatis. begitu juga baris
 
 jika kita klik suatu shell maka kita akan mengaktifkan shell tersebut, tapi jika di klik 2 kali maka akan masuk ke mode mengubah data di shell tersebut
+
+catatan belajar excel 2 :
+formating: huruf B artinya membuat data menjadi tebal
+italic atau i bisa membuat data menjadi miring
+underline atau u bisa merubah data menjadi memiliki garis dibawahnya.
+
+sel data juga bisa diberi warna dengan logo seperti cat
+text juga bisa diberi warna perti sel
+
+mengubah data supaya bisa lebih rapih.aligment bisa digunakan, top align, middle align dan bottom align. bisa digunakan juga
+
+bingkai atau border bisa digunakan untuk membuat tampilan tabel lebih jelas dengan menggunakan logo seperti jendela. yang paling sering dipakai adalah all borders, itu namanya memberi bingkai ke data
+
+copy adalah menduplikasi data tanpa menghapus data asal ctrl+c lalu ctrl+v
+cut adalah memindahkan data, jadi data asal terhapus, ctrl+x lalu ctrl+v
+
+catatan belajar excel 3 :
+kita bisa menggunakan excel untuk menghitung atau mengoperasikan suatu data yang bentuknya kata atau text
+
+tabelnya :
+a|b|c|
+1|nama buah | stok tersisa | harga satuan|
+2|apel | 10 | 10000
+3|jeruk | 20 | 5000
+4|anggur |25 |20000
+5|melon | 5 | 14000
+6|semagka | 10 | 6000
+
+
+rumus diawali dengan =,
+
+misal jumlahkan rumusnya = sel 1 (c4) ditambah sel 2(c5) =c4+c5
+kita cukup pakai rumus sekali, jika data berubah, maka hasil dari rumusnya juga berubah
+
+dikurangkan sama, tapi pakai tanda minus -
+dikalikan sama, tapi pakai tanda *
+dibagikan sama, tapi pakai tanda /
+
+rumus sederhana yang mesti diketahui :
+kalau ingin mengedir rumusnya bisa diklik 2 kali atau klik +f2
+mencari jumlah : rumusnya =sum(b4, b6,b8) atau =sum(B4:b8)
+mencari rata rata stok perbulan : rumusnya =average(b4, b6,b8) atau =average(B4:b8)
+menghitung banyak jenis data : rumusnya  =count(B4:b8) dia bisa menghitung jumlah data berbentuk angka, dia tidak menjumlahkan tapi menghitung
+kalau =counta(a4:a8) dia hanya menghitung data huruf
+mencari data paling tinggi : =max(c4:c8) dia mencdari data tertinggi dari suatu range data
+mencari data paling rendah :=min(c4:c8) dia mencdari data terendah dari suatu range data
