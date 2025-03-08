@@ -78,7 +78,13 @@ misal kita punya kata yang cukup panjang dan excel tidak cukup untuk menampilkan
 bisa disesuaikan lagi, agar textnya middle center. agar benar benar ditengah
 
 menambahkan baris atau kolom baru, bisa di klik di sellnya lalu di klik insert, ada 4 pilihan.
-shift cells right,
+shift cells right(dia memindahkan data kekanan, dan mengosongkan sel tapi data diatas atau dibawahnya tidak berubah)
 shift cells down(dia memindahkan data kebawah dan mengosongkan sel, tapi data di kiri dan kanannya tidak berubah)
-entire row,
-entire collumns
+entire row (menambahkan baris baru, diatasnya)
+entire collumns(menambahkan kolom baru.)
+
+inden, bisa jarak agar bisa lebih terlihat(bisa dipakai untuk menandai sub dari suatu data).
+
+find and replace, 
+
+catatan belajar excel 5 :
