@@ -65,3 +65,20 @@ menghitung banyak jenis data : rumusnya  =count(B4:b8) dia bisa menghitung jumla
 kalau =counta(a4:a8) dia hanya menghitung data huruf
 mencari data paling tinggi : =max(c4:c8) dia mencdari data tertinggi dari suatu range data
 mencari data paling rendah :=min(c4:c8) dia mencdari data terendah dari suatu range data
+
+
+catatan belajar excel 4 :
+menggabungkan 2 atau lebih sel terpisah menjadi 1 sel menggunakan merge sel, namanya merge and center.
+cara memformat angka, di number ada beberapa format yang sering digunakan
+curency (dia bisa menyesuaikan format mata uang di berbagai negara.)
+persentase (bisa diketik, atau ditulis, misal 0,5 tinggal di klik persentase akan jadi 50%)
+koma(untuk memisahkan ribuan dan jutaan agar lebih mudah dibaca)(secara default akan muncul dua desimal dibelakang koma, bisa langsung dihilangkan dengan logo 0tiga, bisa kekiri bisa kekanan, kalau kekanan tandanya dikurangi, kalau misal mau ditambah desimalnya bisa klik yang kiri(increast decimal))
+
+misal kita punya kata yang cukup panjang dan excel tidak cukup untuk menampilkan. bisa klik wrap text, artinya kita melipat kata katanya, atau terenter kebawah.
+bisa disesuaikan lagi, agar textnya middle center. agar benar benar ditengah
+
+menambahkan baris atau kolom baru, bisa di klik di sellnya lalu di klik insert, ada 4 pilihan.
+shift cells right,
+shift cells down(dia memindahkan data kebawah dan mengosongkan sel, tapi data di kiri dan kanannya tidak berubah)
+entire row,
+entire collumns
